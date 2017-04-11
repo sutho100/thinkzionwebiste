@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "css/main.css",
+    "inputFile": "css/main.less"
+  },
+  {
+    "outputFile": "js/main.es5.js",
+    "inputFile": "js/main.js"
+  },
+  {
+    "outputFile": "css/main.css",
+    "inputFile": "css/main.scss"
+  }
+]
